@@ -5,6 +5,8 @@ small example computing "compactness" of shapes, sometimes referred to as "circu
 
 http://en.wikipedia.org/wiki/Shape_factor_%28image_analysis_and_microscopy%29
 
+![results](https://raw.githubusercontent.com/ofZach/circularityMetric/master/results.png)
+
 
 
 
